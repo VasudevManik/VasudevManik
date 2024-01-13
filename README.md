@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasudevManik
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning java full stack development 
+- 👀 I’m interested in software testing 
+- 🌱 I have the knowledge of java,junit,testng,cucumber,jira and also the basic knowledge of frontend also. 
 - 💞️ I’m looking to collaborate on your team
 - 📫 How to reach me vasudevanmdk@gmail.com
 
